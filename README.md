@@ -1,1 +1,2 @@
 # .github
+discord.gg/popcorngaming
